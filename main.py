@@ -33,7 +33,8 @@ def main():
      keys = pygame.key.get_pressed()
      if keys[pygame.K_SPACE]:
          new_shot = player.shoot()
-         shot.add(new_shot)  
+         if new_shot is not None:
+           shot.add(new_shot)  
      
      for obj in updatable:
        obj.update(dt)
