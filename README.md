@@ -89,7 +89,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE]() file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/mohamedaqlil/asteroids-game/blob/main/LICENSE.md) file for more details.
 
 ---
 
